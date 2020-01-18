@@ -1,4 +1,5 @@
 a=input('請輸入職級')
+
 if a in ['A','a','B','b']:
     print('年終6個月')
 elif a in ['C','c','D','d']:
