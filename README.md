@@ -3,8 +3,15 @@
 
 ### python程式設計
 - p01.py
-```
+```python
+a=10
+#整數的變數
+print(a)
+print(type(a))
 
+
+a=30
+print(a)
 ```
 - p02.py
 - p03.py
